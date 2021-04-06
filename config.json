@@ -1,0 +1,47 @@
+{
+
+ "Account": {
+"Username": "arsyliyasilvana",
+     "Password": "T3rl4lu46"
+     },
+ "Target Profit": "0",
+ "Target Win": "0",
+ "Lose Target": "0",
+ "Reset If Target Profit": "OFF",
+ "Reset If Target Win": "OFF",
+ "Interval": "1",
+ "Config": [{
+
+     "Name Bet Set": "OsT",
+     "Base Bet": "0.00015",
+     "Max Bet": "OFF",
+     "Chance": "69",
+     "Random Chance": {
+          "Toggle": "ON",
+          "Min": "5",
+          "Max": "15"
+        },
+     "Bet": {
+          "Bet": "Hi",
+          "Hi / Low": {
+              "Toggle": "ON",
+              "If Lose": "3",
+              "If Win": "2"
+            }
+        },
+     "If Win": "1",
+     "If Lose": "1.15",
+     "Reset If Win": "1",
+     "Reset If Profit": "0",
+     "Interval": "1"
+     }
+  ],
+  "Auto Wd": {
+       "Toggle": "OFF",
+       "If Balance": "0",
+       "Wallet Address":   "DJgNBJv1rZZ2ZqfL5kjJADhS7ChRwKcUzt",
+       "Amount": "0"
+      },
+  "User-Agent": "Android Phone / Chrome 65 [Mobile]:Mozilla/5.0 (Linux; Android 8.0; BLA-L29 Build/HUAWEIBLA-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3236.6 Mobile Safari/537.36"
+
+}
